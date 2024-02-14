@@ -14,6 +14,7 @@
   "license": "MIT",
   "devDependencies": {
     "@luanccp-ui/ts-config": "*",
+    "@luanccp-ui/eslint-config": "*",
     "tsup": "^8.0.2",
     "typescript": "^5.3.3"
   }

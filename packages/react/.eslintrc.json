@@ -1,0 +1,3 @@
+{
+  "extends": "@luanccp-ui/eslint-config"
+}
