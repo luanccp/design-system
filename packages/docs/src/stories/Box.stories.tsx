@@ -1,5 +1,5 @@
 import type { Meta, StoryObj } from '@storybook/react'
-import { Box, BoxProps } from '@luanccp-ui/react'
+import { Box, BoxProps, Text } from '@luanccp-ui/react'
 
 export default {
   title: 'Surfaces/Box',
@@ -7,7 +7,7 @@ export default {
   args: {
     children: (
       <>
-        <span>Testando o elemento Box</span>
+        <Text>Testing Box component</Text>
       </>
     ),
   },
