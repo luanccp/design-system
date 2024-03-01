@@ -1,0 +1,2 @@
+import{A as t}from"./index.bc295135.js";import"./index.8512bef3.js";import"./iframe.9695e640.js";import"./extends.bd401154.js";import"./index.874635fe.js";import"./jsx-runtime.370a3845.js";const c={title:"Data display/Avatar",component:t,args:{src:"https://github.com/luanccp.png",alt:"Luan Castheloge"},argTypes:{src:{control:{type:"text"}}}},e={},m={args:{src:void 0}},l=["Primary","WithFallback"];export{e as Primary,m as WithFallback,l as __namedExportsOrder,c as default};
+//# sourceMappingURL=Avatar.stories.42430705.js.map
